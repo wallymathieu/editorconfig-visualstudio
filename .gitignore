@@ -9,3 +9,4 @@ bin
 obj
 _ReSharper*/
 *.sln.ide/
+packages/
