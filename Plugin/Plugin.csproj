@@ -12,6 +12,12 @@
     <RootNamespace>EditorConfig.VisualStudio</RootNamespace>
     <AssemblyName>EditorConfigPlugin</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <MinimumVisualStudioVersion>14.0</MinimumVisualStudioVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
   </PropertyGroup>
   <!-- Look for the SDK specific to the current version of Visual Studio -->
   <PropertyGroup>
